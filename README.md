@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammad Arsalan Rather</h1>
 <h3 align="center">A passionate developer from Kashmir.</h3>
 
+<p>
+Aspiring Software Developer and dedicated student passionate about creating innovative solutions. Seeking opportunities for growth, development and collaboration. You can find links to my GitHub, X and other below!
+
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslanamin404&label=Profile%20views&color=0e75b6&style=flat" alt="arslanamin404" /> </p>
 
 <p align="left"> <a href="https://twitter.com/arsalan_oeg" target="blank"><img src="https://img.shields.io/twitter/follow/arsalan_oeg?logo=twitter&style=for-the-badge" alt="arsalan_oeg" /></a> </p>

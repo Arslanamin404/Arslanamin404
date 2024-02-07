@@ -8,13 +8,13 @@ Aspiring Software Developer and dedicated student passionate about creating inno
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslanamin404&label=Profile%20views&color=0e75b6&style=flat" alt="arslanamin404" /> </p>
 
-<p align="left"> <a href="https://twitter.com/arsalan_org" target="blank"><img src="https://img.shields.io/twitter/follow/arsalan_oeg?logo=twitter&style=for-the-badge" alt="arsalan_oeg" /></a> </p>
+<p align="left"> <a href="https://twitter.com/arsalan_org" target="blank"><img src="https://img.shields.io/twitter/follow/arsalan_org?logo=twitter&style=for-the-badge" alt="arsalan_org" /></a> </p>
 
 - 🌱 I’m currently learning **DSA using Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arsalan_oeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arsalan_oeg" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://instagram.com/_.arsl_an" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.arsl_an" height="30" width="40" /></a>
 </p>
 

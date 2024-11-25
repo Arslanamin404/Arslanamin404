@@ -10,7 +10,6 @@ Aspiring Software Developer and dedicated student passionate about creating inno
 
 <p align="left"> <a href="https://twitter.com/arsalan_org" target="blank"><img src="https://img.shields.io/twitter/follow/arsalan_org?logo=twitter&style=for-the-badge" alt="arsalan_org" /></a> </p>
 
-- 🌱 I’m currently learning **DSA using Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

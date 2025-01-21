@@ -94,3 +94,36 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
   </a> 
 </p>
+<h3 align="center">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/arsalan_org" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arsalan_org" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/_.arsl_an" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.arsl_an" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+  </a>
+</p>
+
+<h3 align="center">Profile Statistics:</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arslanamin404&theme=dracula" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=arslanamin404&theme=dracula" alt="GitHub Activity Graph" />
+</p>
+
+<h3 align="center">Fun Fact:</h3>
+<p align="center">When I’m not coding, I’m probably exploring new places or playing games!</p>
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! Feel free to connect with me and explore my projects.
+</p>

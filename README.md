@@ -3,6 +3,7 @@
 
 <p>
 Aspiring Software Developer and dedicated student passionate about creating innovative solutions. Seeking opportunities for growth, development and collaboration. You can find links to my GitHub, X and other below!
+arsalanrather.dev@gmail.com
 
 </p>
 
@@ -14,8 +15,7 @@ Aspiring Software Developer and dedicated student passionate about creating inno
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="mailto:arsalanrather.dev@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="" height="30" width="40" />
-arsalanrather.dev@gmail.com</a>
+<a href="mailto:arsalanrather.dev@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="" height="30" width="40" /></a>
 </p>
 
 

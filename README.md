@@ -2,9 +2,12 @@
 <h3 align="center">A passionate developer from Kashmir.</h3>
 
 <p>
-Aspiring Software Developer and dedicated student passionate about creating innovative solutions. Seeking opportunities for growth, development and collaboration. You can find links to my GitHub, X and other below!
+Aspiring Software Developer and dedicated student passionate about creating innovative solutions. Seeking opportunities for growth, development and collaboration. You can find link to my email below!
+</p>
+<p>
+  <a href="mailto:arsalanrather.dev@gmail.com" target="_blank">
 arsalanrather.dev@gmail.com
-
+  </a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslanamin404&label=Profile%20views&color=0e75b6&style=flat" alt="arslanamin404" /> </p>

@@ -15,8 +15,8 @@ arsalanrather.dev@gmail.com
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="mailto:arsalanrather.dev@gmail.com" target="_blank">
-  <img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg](https://img.icons8.com/?size=100&id=37246&format=png&color=000000)" 
+  <a href="mailto:arsalanrather.dev@gmail.com" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" 
        alt="Gmail" height="30" width="40" />
 </a>
 

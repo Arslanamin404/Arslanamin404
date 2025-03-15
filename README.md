@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Kashmir.</h3>
 
 <p>
-Aspiring Software Developer and dedicated student passionate about creating innovative solutions. Seeking opportunities for growth, development and collaboration. You can find link to my email below!
+I'm a passionate and dedicated backend developer specializing in building scalable and efficient web applications. I'm currently honing my skills in the MERN stack, focusing on delivering production-grade solutions to real-world problems. With hands-on experience in API development, authentication, database management, and backend architecture, I aim to create robust and optimized systems that drive business success.
 </p>
 <p>
   <a href="mailto:arsalanrather.dev@gmail.com" target="_blank">
